@@ -1,70 +1,15 @@
-\# Learning Algorithms and Data Structures
+# Learning Algorithms and Data Structures
 
+This repository contains my personal implementations of fundamental algorithms and data structure concepts, developed as part of my study and practice.
 
+The goal is to better understand how algorithms work internally, analyze their complexity, and implement them from scratch.
 
-This repository contains my personal implementations of fundamental algorithms and data structure concepts, created as part of my study and practice in computer science.
+## Contents
 
+- Algorithm implementations (e.g. binary search)
+- Logic and problem-solving exercises
 
+## Notes
 
-The main goal of this repository is learning: understanding how algorithms work internally, analyzing their complexity, and implementing them from scratch.
-
-
-
-\## Contents
-
-
-
-\- Algorithm implementations (e.g. binary search)
-
-\- Simple exercises focused on logic and problem-solving
-
-\- Code written primarily in Java
-
-
-
-Each implementation prioritizes clarity and correctness over micro-optimizations.
-
-
-
-\## Purpose
-
-
-
-This repository is intended to:
-
-\- Reinforce theoretical concepts through practice
-
-\- Serve as a reference for future review
-
-\- Track my progress while studying algorithms and data structures
-
-
-
-It is not meant to be a production-ready library.
-
-
-
-\## References
-
-
-
-Some exercises and ideas are based on concepts studied from books and learning resources, such as:
-
-
-
-\- \*Grokking Algorithms\* — Aditya Bhargava
-
-
-
-All code is written independently as part of the learning process.
-
-
-
-\## Notes
-
-
-
-The repository may grow over time as new algorithms and exercises are added.
-
-
-
+This is a learning-focused repository, not a production-ready library.  
+Some exercises are inspired by study materials such as *Grokking Algorithms* by Aditya Bhargava.
